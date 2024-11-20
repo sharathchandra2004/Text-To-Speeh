@@ -1,3 +1,4 @@
+cohere
 langchain
 openai
 streamlit
