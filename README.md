@@ -65,35 +65,6 @@ Text-summarization/
 2. Adjust summarization settings in `config.py` if needed.  
 3. Run the application and view the summarized output in the `output/` directory.  
 
----
 
-## 🧪 Testing  
 
-Run unit tests to ensure the project functions as expected:  
-```bash  
-python -m unittest discover -s tests/  
-```  
 
----
-
-## 🤝 Contributions  
-
-Contributions are welcome! If you'd like to add features, fix bugs, or improve the code, please:  
-
-1. Fork the repository.  
-2. Create a new branch:  
-   ```bash  
-   git checkout -b feature-name  
-   ```  
-3. Commit your changes:  
-   ```bash  
-   git commit -m "Add feature name"  
-   ```  
-4. Push to the branch:  
-   ```bash  
-   git push origin feature-name  
-   ```  
-5. Submit a pull request.  
-
----
-oject!
