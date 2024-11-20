@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Set your Cohere API key here (replace with your actual key)
-cohere_api_key = "BxQl7z0BKEyofptsGDZwJBTNTiiJ2gRnAcuztYDO"  # Replace with your actual Cohere API key
+cohere_api_key = "e6Grqw2QPaETzGsVztx7wR827YrLT13vhCqZGc1e"  # Replace with your actual Cohere API key
 
 # Function to get summary from Cohere API
 def summarize_text(input_text, summary_length):
@@ -63,3 +63,4 @@ if submit:
         st.write(summarize_text(input_text, summary_length))
     else:
         st.write("Please enter some text to summarize.")
+streamlit
