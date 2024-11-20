@@ -4,9 +4,6 @@ Here’s a comprehensive **README** for your GitHub repository:
 
 # Text Summarization  
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-
 ## 🚀 Overview  
 
 **Text Summarization** is a Python-based project that uses Natural Language Processing (NLP) techniques to summarize text data efficiently. Whether you're handling articles, reports, or large textual documents, this tool simplifies and extracts the core content, saving time and effort.  
